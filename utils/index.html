@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // fetch("utils.gc.wasm")
+        //     .then(res => res.arrayBuffer())
+        //     .then(res => WebAssembly.instantiate(res))
+        //     .then(wasmModule => {
+        //         const twoPlusOne = wasmModule.instance.exports.addOne(2)
+        //         const text = document.createTextNode(twoPlusOne)
+        //         document.body.appendChild(text)
+        //     })
+        WebAssembly.instantiateStreaming(fetch("utils.gc.wasm")).then(wasmModule => {
+            const threePlusOne = wasmModule.instance.exports.addOne(3)
+            const text = document.createTextNode(threePlusOne)
+            document.body.appendChild(text)
+        })
+    </script>
+</body>
+</html>
