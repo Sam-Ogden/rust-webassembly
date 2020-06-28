@@ -30,3 +30,13 @@ wasm-pack build #creates js output from src/lib.rs to pkg/utils.js.
 
 We use `#[wasm-bindgen(module = "/domutils")` in lib.rs to include our appendStringToBody function into wasm output.
 We dinamically import the wasm output (webpack limitation) in utils/index.js and load this in our webpackbindgen.html file
+
+## rust-webpack template
+
+`npm init rust-webpack` template for rust.
+
+```bash
+cd my-app
+npm install
+npm start
+```
