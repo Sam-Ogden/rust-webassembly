@@ -1,0 +1,11 @@
+/Users/samuelogden/dev/rust_wasm/utils/target/release/deps/proc_macro2-2a4459f250d97ef2.rmeta: /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/Users/samuelogden/dev/rust_wasm/utils/target/release/deps/libproc_macro2-2a4459f250d97ef2.rlib: /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/Users/samuelogden/dev/rust_wasm/utils/target/release/deps/proc_macro2-2a4459f250d97ef2.d: /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs:
+/Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs:
+/Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs:
+/Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs:
+/Users/samuelogden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs:
